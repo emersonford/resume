@@ -2,4 +2,4 @@
 Rewrote my resume in LaTeX and making the files public on Github for all to use.
 
 ## Usage
-Alter resume.tex and compile with Latex.
+Alter resume.tex and compile with `pdflatex -synctex=1 "Resume.tex"`.
