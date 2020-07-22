@@ -19,7 +19,14 @@
 \RequirePackage[margin=0.75in]{geometry}
 
 % For links
-\RequirePackage[hidelinks]{hyperref}
+\RequirePackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+}
+
 
 % Supress Page Numbers
 \pagestyle{empty}
