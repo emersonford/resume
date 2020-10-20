@@ -16,7 +16,7 @@
 \RequirePackage{graphicx}
 
 % Set margins
-\RequirePackage[margin=0.75in]{geometry}
+\RequirePackage[margin=0.6in]{geometry}
 
 % For links
 \RequirePackage{hyperref}
